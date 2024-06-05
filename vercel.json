@@ -2,7 +2,7 @@
   "public": true,
   "functions": {
     "api/**/*.[jt]s": {
-      "runtime": "nodejs18.x"
+      "runtime": "vercel/node@18.x"
     }
   },
   "rewrites": [
